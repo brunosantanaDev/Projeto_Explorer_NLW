@@ -21,4 +21,4 @@
 
 > [Linkedin](http://www.linkedin.com/brunosantanadev)
 
-> [Whatsapp](http://wa.me/5521994395138&text=oi)
+> [Whatsapp](http://wa.me/5521994395138)
