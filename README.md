@@ -1,7 +1,7 @@
 # NLW Sports
 > Triha Explorer
 
->![previews](.github/preview.png)
+>[![previews](.github/preview.png)](https://brunosantanadev.github.io/Projeto_Explorer_NLW/)
 
 >Projeto construido no evento Next Level Week da Rocketseat.
 
